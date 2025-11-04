@@ -1,5 +1,7 @@
 # sdr-cosine
 
+Dataset: https://www.kaggle.com/datasets/PromptCloudHQ/toy-products-on-amazon
+
 Similar products:
 Hornby R3086 RailRoad LNER 4-6-2 'Flying Scotsman' Class A3 00 Gauge Steam Locomotive (79e16a6819d997b7053a808a79d341b8)  and Hornby R3064 RailRoad BR Smokey Joe 00 Gauge Steam Locomotive (5152452656955a9bf425a11ba221f016) ,similarity: .89
 
